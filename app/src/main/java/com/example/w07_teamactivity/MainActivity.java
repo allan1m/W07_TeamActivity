@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     public void nothing(){
         System.out.println("This is a test");
         System.out.println("New test!");
-        System.out.println("first team conflict. ");
+        System.out.println("first team conflict created by.... ");
         System.out.println("Conflict by Rufino");
     }
 }
